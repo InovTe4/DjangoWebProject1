@@ -1,0 +1,2 @@
+G:\4 курс\Web программирование\Практика\DjangoWebProject1(V1.2)\DjangoWebProject1\obj\Debug\DjangoWebProject1.pyproj.CoreCompileInputs.cache
+G:\4 курс\Web программирование\Практика\DjangoWebProject1\DjangoWebProject1\obj\Debug\DjangoWebProject1.pyproj.CoreCompileInputs.cache
